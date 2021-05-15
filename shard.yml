@@ -1,0 +1,13 @@
+name: sample-app-by-amber
+version: 0.1.0
+
+authors:
+  - Yuta Ushijima <register@yuta-u.com>
+
+targets:
+  sample-app-by-amber:
+    main: src/sample-app-by-amber.cr
+
+crystal: 1.0.0
+
+license: MIT
